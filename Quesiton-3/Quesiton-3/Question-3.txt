@@ -1,0 +1,18 @@
+Create a function StringBinaryOperations ()
+Description:
+The Binary number system uses two digits 0 and 1 and number system can be called binary 
+string. You are required to implement given function
+StringBinaryOperations() This function accepts a string str as its argument. The string str 
+consists of binary digits separated with an alphabet as follows:
+- X denotes AND operation
+- Y denotes OR operation
+- Z denotes XOR Operation
+You are required to calculate the result of the string, scanning the string to right taking one 
+operation at a time, and return the same.
+Note:
+• No order of priorities of operations is required
+• Length of str is odd
+• If str is NULL / None (in case of Python), return “Invalid Input”
+Input str: 1Z0Z1Z1X0Y1
+Output: 1
+

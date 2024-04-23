@@ -1,0 +1,4 @@
+Write a function isAnagrams () to validate if the provided two strings are anagrams or not. If 
+the two strings are anagrams, then return ‘Anagrams. Otherwise, return ‘Word is not
+anagrams.Words Example: Race and Care, Listen and Silent
+
